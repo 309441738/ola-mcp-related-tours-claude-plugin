@@ -1,0 +1,18 @@
+{
+  "name": "ola-mcp-related-tours-marketplace",
+  "owner": {
+    "name": "craftwave"
+  },
+  "metadata": {
+    "description": "Related Tour Packages 的 Claude Code 插件市场，由CruiseSkillBridge 发布。",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "ola-mcp-related-tours",
+      "source": "./plugins/ola-mcp-related-tours",
+      "description": "Explore related land tour packages that complement your cruise experience, enriching your travel journey.",
+      "version": "0.1.0"
+    }
+  ]
+}
